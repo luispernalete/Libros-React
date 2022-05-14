@@ -2,23 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
 
+## This site was built using
+
+React JS  [React JS Page](https://github.com/facebook/create-react-app)
+sweetalert2 [sweetalert2 Page](https://sweetalert2.github.io/)
+
+
 
 ## Project Functionalities
 Create new books
 Delete Books
 Edit and update data of created books
-
 The number of books currently in the system is displayed in the navigation bar
 
 ## Data used
 
-Qualification
-Author
-Editorial
-Gender
-Year of publication
-
-##
+Qualification, Author, Editorial, Gender, Year of publication.
 
 ## Available Scripts
 
@@ -33,6 +32,6 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 
-
+## Screenshot
 ![Esta es una imagen](Screenshot_1.png)
 
