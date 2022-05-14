@@ -1,0 +1,25 @@
+{
+    "todos": [
+      {
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes Saavedra",
+        "publicacionanio": "1605",
+        "editorial": "Imprenta de Juan de la Cuesta",
+        "genero": "Novela de aventuras"
+      },
+      {
+        "titulo": "El Señor de los Anillos",
+        "autor": "J. R. R. Tolkien",
+        "publicacionanio": "1978",
+        "editorial": "George Allen & Unwin HarperCollins",
+        "genero": "Novela"
+      },
+      {
+        "titulo": "Las aventuras de Alicia en el país de las maravillas",
+        "autor": "Charles Lutwidge Dodgson",
+        "publicacionanio": "1865",
+        "editorial": "Macmillan Publishers",
+        "genero": "Novela"
+      }
+    ]
+  }
