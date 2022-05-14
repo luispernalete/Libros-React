@@ -33,5 +33,9 @@ You may also see any lint errors in the console.
 
 
 ## Screenshot
+![Esta es una imagen](Screenshot_5.png)
+![Esta es una imagen](Screenshot_2.png)
+![Esta es una imagen](Screenshot_3.png)
+![Esta es una imagen](Screenshot_4.png)
 ![Esta es una imagen](Screenshot_1.png)
 
