@@ -8,7 +8,7 @@ export default class Libros extends Component {
     titulo: '',
     autor: '',
     editorial: '',
-    publicacionanio: 1900,
+    publicacionanio: "",
     genero: '',
     modoeditar: false,
     editarindex: undefined,
@@ -25,7 +25,7 @@ export default class Libros extends Component {
         titulo: "",
         autor: "",
         editorial: "",
-        publicacionanio:1900,
+        publicacionanio:"",
         genero: "",
         modoeditar: false,
         editarindex: undefined
@@ -81,7 +81,7 @@ resetform = (e) => {
           titulo: "",
           autor: "",
           editorial: "",
-          publicacionanio:1900,
+          publicacionanio:"",
           genero: "",
           modoeditar: false,
           editarindex: undefined
