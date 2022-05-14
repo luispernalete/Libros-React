@@ -7,7 +7,7 @@ export default class Home extends Component {
      
         <div className="container">
         
-        <p className='hometitle'> Sistema de Libros - React Js </p>
+        <p className='hometitle'> Sistema de Libros - React </p>
         <img src={imagen} class="img-fluid border border-secondary border-3" alt="..."></img>
        </div>
 
