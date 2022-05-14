@@ -4,10 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## This site was built using
 
-React JS  [React JS Page](https://github.com/facebook/create-react-app)
-sweetalert2 [sweetalert2 Page](https://sweetalert2.github.io/)
-
-
+React JS  [React JS Page](https://github.com/facebook/create-react-app) \
+sweetalert2 [sweetalert 2 Page](https://sweetalert2.github.io/) \
+Bootstrap 5 [Bootstrap 5 Page](https://getbootstrap.com/docs/5.0/getting-started/introduction/) \
+Css, Html, javascript
 
 ## Project Functionalities
 Create new books
